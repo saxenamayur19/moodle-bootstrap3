@@ -31,3 +31,5 @@ defined('MOODLE_INTERNAL') || die;
 $plugin->version   = 2016102700;
 $plugin->requires  = 2015111000;
 $plugin->component = 'theme_bootstrap3';
+$plugin->maturity = MATURITY_STABLE;
+$plugin->release = 'v1';
